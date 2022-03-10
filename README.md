@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rayane Tayache 
 
-I'm a student at University of Strasbourg in France majoring in Computer Science.
+I'm a freshman student at University of Strasbourg in France majoring in Computer Science.
 
 <img align ="left" width = 48.5% src="https://github-readme-stats.vercel.app/api?username=tayacherayane&show_icons=true&theme=radical" />
 <img align ="left" width = 48.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayacherayane&layout=compact" />
