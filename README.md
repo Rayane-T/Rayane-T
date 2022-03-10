@@ -10,6 +10,4 @@ I'm a student at University of Strasbourg in France majoring in Computer Science
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayacherayane)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tayacherayane&show_icons=true)  
-
 ![Profile views](https://gpvc.arturio.dev/tayacherayane)  
