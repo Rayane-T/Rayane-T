@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rayane Tayache 
 
-I'm a student at University of Strasbourg in France majoring in Computer Science.
+I'm a student at University of Strasbourg in France majoring in Computer Science. \n
 • Currently working on my portfolio (TypeScript/React.js) and coding a Sudoku mini game in C 
 
 <img align ="left" width = 48.5% src="https://github-readme-stats.vercel.app/api?username=tayacherayane&show_icons=true&theme=radical" />
