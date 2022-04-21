@@ -1,8 +1,8 @@
 ### Hi there 👋,
 
-I'm a freshman student at University of Strasbourg, France majoring in Computer Science.  
+I'm a freshman student at Unistra majoring in Computer Science.  
 
-• Currently working on my portfolio (TypeScript/React.js) and coding a Match AI Game in C 
+• Currently working on my portfolio (TypeScript/React.js) and doing hw projects ;)
 
 
 ### Skills and Experience
