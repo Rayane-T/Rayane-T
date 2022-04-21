@@ -1,11 +1,11 @@
-# Hi there 👋,
+### Hi there 👋,
 
 I'm Rayane Tayache, student at University of Strasbourg, France majoring in Computer Science.  
 
 • Currently working on my portfolio (TypeScript/React.js) and coding a Match AI Game in C 
 
 
-## Skills and Experience
+### Skills and Experience
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
@@ -20,6 +20,6 @@ I'm Rayane Tayache, student at University of Strasbourg, France majoring in Comp
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Contact me 🔌
+### Contact me 🔌
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tayacherayane)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rayane-tayache-1b7048223/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tayacherayane/)  
 
