@@ -4,9 +4,6 @@ I'm a student at University of Strasbourg in France majoring in Computer Science
 
 • Currently working on my portfolio (TypeScript/React.js) and coding a Match AI Game in C 
 
-<img align ="left" width = 48.5% src="https://github-readme-stats.vercel.app/api?username=tayacherayane&show_icons=true&theme=radical" />
-<img align ="left" width = 48.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayacherayane&layout=compact" />
-
 
 ## Skills and Experience
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
