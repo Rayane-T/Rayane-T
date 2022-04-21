@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Rayane Tayache 
+# Hi there 👋,
 
-I'm a student at University of Strasbourg in France majoring in Computer Science.  
+I'm Rayane Tayache, student at University of Strasbourg, France majoring in Computer Science.  
 
 • Currently working on my portfolio (TypeScript/React.js) and coding a Match AI Game in C 
 
