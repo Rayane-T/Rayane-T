@@ -2,7 +2,7 @@
 
 I'm a freshman student at Unistra majoring in Computer Science.  
 
-• Currently working on my portfolio (TypeScript/React.js) and doing hw projects ;)
+• Currently working on my portfolio using React.js and doing hw projects ;)
 
 
 ### Skills and Experience
