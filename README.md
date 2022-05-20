@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-I'm a freshman student at Unistra majoring in Computer Science.  
+I'm student at Unistra majoring in Computer Science.  
 
 • Currently working on my portfolio using React.js and doing hw projects ;)
 
