@@ -1,22 +1,20 @@
 <!-- ### Hi there 👋 -->
 <h1>Hi there 👋🏻, I'm Rayane</h1>
 
-<img align="right" src=https://user-images.githubusercontent.com/74905890/143034969-0af4cd99-6a2b-44c3-b260-ecf04c96773d.gif style="object-fit: cover; height: 210px; float: right">
+<img align="right" src=https://c.tenor.com/3He15_WUl40AAAAC/genius-think.gif style="object-fit: cover; height: 210px; float: right">
 
 <p>
- <em> Engineer | Software Developer | Student at <a href="www.42madrid.com">University of Strasbourg</a> </em>
+ <em> Software Developer | Computer Science student at <a href="https://www.unistra.fr/">University of Strasbourg</a> </em>
 </p>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Rayane-T.Rayane-T)
 [![Linkedin: rayanetayache](https://img.shields.io/badge/-Rayane%20Tayache-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayanetayache/)](https://www.linkedin.com/in/rayanetayache/)
 [![Github](https://img.shields.io/github/followers/Rayane-T?label=Follow&style=social)](https://github.com/Rayane-T)
 
-- 🧑🏻‍💻 C/C++ and Ada developer working in Air Traffic Management automation.
+- 🧑🏻‍💻 C/C++ developper working Embedded system.
 - 🌱 Currently learning React.JS, Three.JS and building my portfolio.
 - 👨🏻‍🎓 My constantly [updated CV](https://drive.google.com/file/d/12AvEf71iz4kryShloDR1nG20-CJjnULS/view?usp=sharing).
-- 🍑 You can visit my [Onlyfans](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
-- 🎧 I love music, check my [Spotify](https://open.spotify.com/user/h4m11lw0z5def98uih0ps1iur).
-- 📫 You can contact me by [Email](mailto:pruiz-ca@student.42madrid.com) or [LinkedIn](https://www.linkedin.com/in/pruiz-ca/).
+- 📫 Feel free to contact me by [Email](mailto:pro.tayacherayane@gmail.com) or [LinkedIn](https://www.linkedin.com/in/rayanetayache/).
  
  
 ##
