@@ -8,7 +8,7 @@
 </p>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Rayane-T.Rayane-T)
-[![Linkedin: rayanetayache](https://img.shields.io/badge/-Pedro_Ruiz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayanetayache/)](https://www.linkedin.com/in/rayanetayache/)
+[![Linkedin: rayanetayache](https://img.shields.io/badge/-Rayane-Tayache-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayanetayache/)](https://www.linkedin.com/in/rayanetayache/)
 [![Github](https://img.shields.io/github/followers/pruiz-ca?label=Follow&style=social)](https://github.com/Rayane-T)
 
 - 🧑🏻‍💻 C/C++ and Ada developer working in Air Traffic Management automation.
