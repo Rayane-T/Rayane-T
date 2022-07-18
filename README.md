@@ -8,8 +8,8 @@
 </p>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pruiz-ca.pruiz-ca)
-[![Linkedin: pruiz-ca](https://img.shields.io/badge/-Pedro_Ruiz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pruiz-ca/)](https://www.linkedin.com/in/pruiz-ca/)
-[![Github](https://img.shields.io/github/followers/pruiz-ca?label=Follow&style=social)](https://github.com/pruiz-ca)
+[![Linkedin: rayanetayache](https://img.shields.io/badge/-Pedro_Ruiz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pruiz-ca/)](https://www.linkedin.com/in/rayanetayache/)
+[![Github](https://img.shields.io/github/followers/pruiz-ca?label=Follow&style=social)](https://github.com/Rayane-T)
 
 - 🧑🏻‍💻 C/C++ and Ada developer working in Air Traffic Management automation.
 - 🌱 Currently learning Angular, NestJS, PostgreSQL and Machine Learning at [42Madrid](https://www.42madrid.com/en/).
@@ -20,11 +20,6 @@
  
  
 ##
-<div align="center">
- 
- [![pruiz-ca's 42 stats](https://badge42.vercel.app/api/v2/cl2a1pwul002509mosyqrmbaz/stats?cursusId=21&coalitionId=66)](https://www.42madrid.com/en)
-
-</div>
 
 <h2>Languages and tools</h2>
 <p align="center">
@@ -32,9 +27,6 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width=40 height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width=40 height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width=40 height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="nestjs" width=40 height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width=40 height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width=40 height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="git" width=40 height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width=40 height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width=40 height="40" style="vertical-align:top; margin:4px">
@@ -43,7 +35,6 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width=40 height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width=40 height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width=40 height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width=40 height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width=40 height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width=40 height="40" style="vertical-align:top; margin:4px">
 </p>
@@ -51,8 +42,8 @@
 <h2>Some stats</h2>
 <details>
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pruiz-ca&count_private=true&show_icons=true&theme=tokyonight) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=pruiz-ca&theme=tokyonight) -->
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayane-T&count_private=true&show_icons=true&theme=tokyonight) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Rayane-T&theme=tokyonight) -->
  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
