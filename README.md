@@ -1,10 +1,10 @@
 <!-- ### Hi there 👋 -->
-<h1>Hi there 👋🏻, I'm Pedro</h1>
+<h1>Hi there 👋🏻, I'm Rayane</h1>
 
 <img align="right" src=https://user-images.githubusercontent.com/74905890/143034969-0af4cd99-6a2b-44c3-b260-ecf04c96773d.gif style="object-fit: cover; height: 210px; float: right">
 
 <p>
- <em> Engineer | Software Developer | Student at <a href="www.42madrid.com">42Madrid - Telefónica</a> </em>
+ <em> Engineer | Software Developer | Student at <a href="www.42madrid.com">University of Strasbourg</a> </em>
 </p>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pruiz-ca.pruiz-ca)
