@@ -1,74 +1,132 @@
-# Hi there, I'm Rayane👋 
+<!-- ### Hi there 👋 -->
+<h1>Hi there 👋🏻, I'm Pedro</h1>
 
-## I'm a SWE!!
+<img align="right" src=https://user-images.githubusercontent.com/74905890/143034969-0af4cd99-6a2b-44c3-b260-ecf04c96773d.gif style="object-fit: cover; height: 210px; float: right">
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+<p>
+ <em> Engineer | Software Developer | Student at <a href="www.42madrid.com">42Madrid - Telefónica</a> </em>
+</p>
 
-### Connect with me:
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pruiz-ca.pruiz-ca)
+[![Linkedin: pruiz-ca](https://img.shields.io/badge/-Pedro_Ruiz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pruiz-ca/)](https://www.linkedin.com/in/pruiz-ca/)
+[![Github](https://img.shields.io/github/followers/pruiz-ca?label=Follow&style=social)](https://github.com/pruiz-ca)
 
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/rayanetayache)
-&nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://instagram.com/ryntyc)
+- 🧑🏻‍💻 C/C++ and Ada developer working in Air Traffic Management automation.
+- 🌱 Currently learning Angular, NestJS, PostgreSQL and Machine Learning at [42Madrid](https://www.42madrid.com/en/).
+- 👨🏻‍🎓 My constantly [updated CV](https://pedroruiz.xyz/cv.pdf).
+- 🍑 You can visit my [Onlyfans](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+- 🎧 I love music, check my [Spotify](https://open.spotify.com/user/h4m11lw0z5def98uih0ps1iur).
+- 📫 You can contact me by [Email](mailto:pruiz-ca@student.42madrid.com) or [LinkedIn](https://www.linkedin.com/in/pruiz-ca/).
+ 
+ 
+##
+<div align="center">
+ 
+ [![pruiz-ca's 42 stats](https://badge42.vercel.app/api/v2/cl2a1pwul002509mosyqrmbaz/stats?cursusId=21&coalitionId=66)](https://www.42madrid.com/en)
 
-### Languages and Tools:
+</div>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+<h2>Languages and tools</h2>
+<p align="center">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width=40 height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width=40 height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width=40 height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width=40 height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="nestjs" width=40 height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width=40 height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width=40 height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="git" width=40 height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width=40 height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width=40 height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width=40 height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width=40 height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width=40 height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width=40 height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width=40 height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width=40 height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width=40 height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width=40 height="40" style="vertical-align:top; margin:4px">
+</p>
 
-<br />
-<br />
-
----
-
----
-
+<h2>Some stats</h2>
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#156](https://github.com/codeSTACKr/create-10k-nft-collection/issues/156) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-2. 🎉 Merged PR [#156](https://github.com/codeSTACKr/create-10k-nft-collection/pull/156) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-3. ❌ Closed PR [#44](https://github.com/codeSTACKr/minter-dapp/pull/44) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-4. 🗣 Commented on [#44](https://github.com/codeSTACKr/minter-dapp/issues/44) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-5. ❌ Closed PR [#45](https://github.com/codeSTACKr/minter-dapp/pull/45) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-<!--END_SECTION:activity-->
 
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pruiz-ca&count_private=true&show_icons=true&theme=tokyonight) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=pruiz-ca&theme=tokyonight) -->
+ 
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-683%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 389 Contributions in the Year 2022
+ > 
+> 📦 328.8 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 16 Public Repositories 
+ > 
+> 🔑 9 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
+🌆 Daytime    199 commits    ███████░░░░░░░░░░░░░░░░░░   29.01% 
+🌃 Evening    255 commits    █████████░░░░░░░░░░░░░░░░   37.17% 
+🌙 Night      166 commits    ██████░░░░░░░░░░░░░░░░░░░   24.2%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
+Tuesday      116 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.91% 
+Wednesday    103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.01% 
+Thursday     109 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.89% 
+Friday       71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.35% 
+Saturday     128 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.66% 
+Sunday       75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.93%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+Python                   7 hrs 39 mins       ███████████████░░░░░░░░░░   62.25% 
+Other                    2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.78% 
+Terraform                1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.16% 
+YAML                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.9% 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.49%
+
+🔥 Editors: 
+VS Code                  12 hrs 18 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      12 hrs 18 mins      █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in C** 
+
+```text
+C                        8 repos             ████████░░░░░░░░░░░░░░░░░   34.78% 
+Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
+Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
+
+```
+
+
+
+ Last Updated on 17/07/2022 03:59:23 UTC
+<!--END_SECTION:waka-->
 </details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Rayane-T's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rayane-T&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
