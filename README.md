@@ -4,7 +4,7 @@
 <img align="right" src=https://c.tenor.com/3He15_WUl40AAAAC/genius-think.gif style="object-fit: cover; height: 210px; float: right">
 
 <p>
- <em> Software Developer | Computer Science student at <a href="https://www.unistra.fr/">University of Strasbourg</a> </em>
+ <em> Software Developer | Computer Science student at <a href="https://www.unistra.fr/etudes/decouvrir-nos-formations/par-type-de-diplomes/licence/licence/cursus/ME6?cHash=a68bd2a50c4b50c72f0ed84044e7f562#data-rof-tab-cours">University of Strasbourg</a> </em>
 </p>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Rayane-T.Rayane-T)
