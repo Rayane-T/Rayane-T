@@ -12,8 +12,8 @@
 [![Github](https://img.shields.io/github/followers/Rayane-T?label=Follow&style=social)](https://github.com/Rayane-T)
 
 - 🧑🏻‍💻 C/C++ and Ada developer working in Air Traffic Management automation.
-- 🌱 Currently learning Angular, NestJS, PostgreSQL and Machine Learning at [42Madrid](https://www.42madrid.com/en/).
-- 👨🏻‍🎓 My constantly [updated CV](https://pedroruiz.xyz/cv.pdf).
+- 🌱 Currently learning React.JS, Three.JS and building my portfolio.
+- 👨🏻‍🎓 My constantly [updated CV](https://drive.google.com/file/d/12AvEf71iz4kryShloDR1nG20-CJjnULS/view?usp=sharing).
 - 🍑 You can visit my [Onlyfans](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 - 🎧 I love music, check my [Spotify](https://open.spotify.com/user/h4m11lw0z5def98uih0ps1iur).
 - 📫 You can contact me by [Email](mailto:pruiz-ca@student.42madrid.com) or [LinkedIn](https://www.linkedin.com/in/pruiz-ca/).
