@@ -48,6 +48,10 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Rayane-T&theme=tokyonight) -->
  
 <!--START_SECTION:waka-->
- <img src="https://wakatime.com/share/@82ad55d5-2cbd-4727-b645-e9779f46f656/f094889c-2e76-4821-944c-18ad81792f73.svg" height="400px">
+
+```text
+Other        3 mins          █████████████████▓░░░░░░░   70.61 %
+```
+
 <!--END_SECTION:waka-->
 </details>
