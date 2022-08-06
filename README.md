@@ -48,6 +48,6 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Rayane-T&theme=tokyonight) -->
  
 <!--START_SECTION:waka-->
- <figure><embed src="https://wakatime.com/share/@82ad55d5-2cbd-4727-b645-e9779f46f656/f094889c-2e76-4821-944c-18ad81792f73.svg"></embed></figure>
+ <img src="https://wakatime.com/share/@82ad55d5-2cbd-4727-b645-e9779f46f656/f094889c-2e76-4821-944c-18ad81792f73.svg" height="400px">
 <!--END_SECTION:waka-->
 </details>
