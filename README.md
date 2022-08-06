@@ -9,7 +9,7 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Rayane-T.Rayane-T)
 [![Linkedin: rayanetayache](https://img.shields.io/badge/-Rayane%20Tayache-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayanetayache/)](https://www.linkedin.com/in/rayanetayache/)
-[![Github](https://img.shields.io/github/followers/Rayane-T?label=Follow&style=social)](https://github.com/Rayane-T)
+[![Instagram](https://img.shields.io/insta/followers/Rayane-T?label=Follow&style=social)](https://www.instagram.com/ryntyc/)
 
 - 🧑🏻‍💻 C/C++ passionate developper.
 - 🌱 Currently learning React.JS, Three.JS and building my portfolio.
