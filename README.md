@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <h1>Hi there 👋🏻, I'm Rayane</h1>
 
-<img align="right" src=https://c.tenor.com/mpwQzcbvqHcAAAAd/macron-dab-emmanuel-macron.gif style="object-fit: cover; height: 210px; float: right">
+<!-- <img align="right" src=https://c.tenor.com/mpwQzcbvqHcAAAAd/macron-dab-emmanuel-macron.gif style="object-fit: cover; height: 210px; float: right"> -->
 
 <p>
  <em> Software Developer | Computer Science student at <a href="https://www.unistra.fr/etudes/decouvrir-nos-formations/par-type-de-diplomes/licence/licence/cursus/ME6?cHash=a68bd2a50c4b50c72f0ed84044e7f562#data-rof-tab-cours">University of Strasbourg</a> </em>
