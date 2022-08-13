@@ -13,7 +13,7 @@
 
 - 🧑🏻‍💻 C/C++ passionate developper.
 - 🌱 Currently learning React.JS, Three.JS and building my portfolio.
-- 👨🏻‍🎓 My constantly [updated CV](https://drive.google.com/file/d/12AvEf71iz4kryShloDR1nG20-CJjnULS/view?usp=sharing).
+- 👨🏻‍🎓 My constantly [updated Resume/CV](https://drive.google.com/file/d/12AvEf71iz4kryShloDR1nG20-CJjnULS/view?usp=sharing).
 - 📫 Feel free to contact me by [Email](mailto:pro.tayacherayane@gmail.com) or [LinkedIn](https://www.linkedin.com/in/rayanetayache/).
  
  
