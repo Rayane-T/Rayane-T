@@ -1,8 +1,8 @@
 <!-- ### Hi there 👋 -->
-<h1>Hi there 👋🏻, I'm Rayane</h1>
-
+<h1>Hi there 👋, I'm Rayane</h1>
+<!--
 <img align="right" src=https://imgs.search.brave.com/r_QU3u2wqdNq0cLqEL1sIF0yYbm9-rjuAGXriU7drYY/rs:fit:1200:253:1/g:ce/aHR0cDovL3d3dy1t/YXRoLnUtc3RyYXNi/Zy5mci9JTUcvbG9n/b1VGUk1hdGgucG5n style="object-fit: cover; height: 90px; float: right">
-
+-->
 <p>
  <em> Software Developer | Computer Science student at <a href="https://www.unistra.fr/etudes/decouvrir-nos-formations/par-type-de-diplomes/licence/licence/cursus/ME6?cHash=a68bd2a50c4b50c72f0ed84044e7f562#data-rof-tab-cours">University of Strasbourg</a> </em>
 </p>
