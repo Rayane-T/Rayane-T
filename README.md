@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <h1>Hi there 👋, I'm Rayane</h1>
-<a href="https://github.com/Rayane-T/Tracks">
+<a target="_blank" href="https://github.com/Rayane-T/Tracks">
 <img align="right" src=https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/002/195/143/datas/medium.gif style="object-fit: cover; height: 160px; float: right">
 </a>
 <p>
