@@ -40,22 +40,3 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width=40 height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width=40 height="40" style="vertical-align:top; margin:4px">
 </p>
-
-<h2>Some stats</h2>
-<details>
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayane-T&count_private=true&show_icons=true&theme=tokyonight) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Rayane-T&theme=tokyonight) -->
- 
-<!--START_SECTION:waka-->
-
-```text
-Python       2 hrs 10 mins   ████████████▓░░░░░░░░░░░░   50.52 %
-JavaScript   58 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.65 %
-C++          46 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
-CSS          14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-```
-
-<!--END_SECTION:waka-->
-</details>
