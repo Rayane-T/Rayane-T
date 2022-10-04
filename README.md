@@ -12,7 +12,7 @@
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCQTKc_W-IlYIC68avqMuSXA?style=social)](https://www.youtube.com/channel/UCQTKc_W-IlYIC68avqMuSXA)
 
 - 🧑🏻‍💻 C/C++ passionate developper.
-- 👨‍💻 Hackathon Enthusiast (Soon => /Slash Hack '22).
+- 👨‍💻 Hackathon Enthusiast.
 - 🌱 Currently learning React.JS, Three.JS and building my portfolio.
 - 👨🏻‍🎓 My constantly updated [Resume](https://drive.google.com/file/d/12AvEf71iz4kryShloDR1nG20-CJjnULS/view?usp=sharing).
 - 🔎 Looking for a 2023 Spring/Summer Internship.
