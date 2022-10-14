@@ -15,7 +15,7 @@
 - 👨‍💻 Hackathon Enthusiast.
 - 🌱 Currently learning React.JS, Three.JS and building my portfolio.
 - 👨🏻‍🎓 My constantly updated [Resume](https://drive.google.com/file/d/12AvEf71iz4kryShloDR1nG20-CJjnULS/view?usp=sharing).
-- 🔎 Looking for a 2023 Spring/Summer Internship.
+- 🔎 Looking for 2023 Summer SWE Internships.
 - 📫 Feel free to contact me by [Email](mailto:pro.tayacherayane@gmail.com) or [LinkedIn](https://www.linkedin.com/in/rayanetayache/).
  
  
