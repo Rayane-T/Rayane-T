@@ -1,8 +1,7 @@
 <!-- ### Hi there 👋 -->
 <h1>Hi there 👋, I'm Rayane</h1>
-<a href="https://github.com/Rayane-T/Tracks" target="_blank">
-<img align="right" src=https://user-images.githubusercontent.com/82381064/195439306-6b965469-7530-42f2-8a20-92c56a5cc70d.PNG style="object-fit: cover; height: 190px; float: right">
-</a>
+
+<img align="right" src=https://user-images.githubusercontent.com/82381064/195995334-3908b390-c506-41f4-91e3-40d6c8d868ac.png style="object-fit: cover; height: 190px; float: right">
 <p>
  <em> Software Developer | Computer Science student at <a href="https://www.unistra.fr/etudes/decouvrir-nos-formations/par-type-de-diplomes/licence/licence/cursus/ME6?cHash=a68bd2a50c4b50c72f0ed84044e7f562#data-rof-tab-cours">University of Strasbourg</a> </em>
 </p>
