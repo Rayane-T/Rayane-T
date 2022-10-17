@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <h1>Hi there 👋, I'm Rayane</h1>
-<a href="https://rayanetayache.me">
+<a href="https://rayanetayache.me" target="_blank">
 <img align="right" src=https://user-images.githubusercontent.com/82381064/195995334-3908b390-c506-41f4-91e3-40d6c8d868ac.png style="object-fit: cover; height: 190px; float: right">
 </a>
 <p>
