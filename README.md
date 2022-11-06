@@ -11,7 +11,7 @@
 [![Linkedin: rayanetayache](https://img.shields.io/badge/-Rayane%20Tayache-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayanetayache/)](https://www.linkedin.com/in/rayanetayache/)
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCQTKc_W-IlYIC68avqMuSXA?style=social)](https://www.youtube.com/channel/UCQTKc_W-IlYIC68avqMuSXA)
 
-- 🧑🏻‍💻 C/C++ passionate developper.
+- 🧑🏻‍💻Front-End passionate developper.
 - 👨‍💻 Hackathon Enthusiast.
 - 🌱 Currently learning React.JS, Three.JS and building my portfolio.
 - 👨🏻‍🎓 My constantly updated [Resume](https://drive.google.com/file/d/12AvEf71iz4kryShloDR1nG20-CJjnULS/view?usp=sharing).
