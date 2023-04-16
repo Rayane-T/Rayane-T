@@ -38,4 +38,13 @@
 ### Some stats
 <!--START_SECTION:waka-->
 
+```text
+CSS          3 hrs 14 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.50 %
+JavaScript   2 hrs 51 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.49 %
+C            2 hrs 32 mins   █████░░░░░░░░░░░░░░░░░░░░   19.93 %
+JSON         1 hr 37 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
+Makefile     1 hr 28 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
+Python       28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+```
+
 <!--END_SECTION:waka-->
