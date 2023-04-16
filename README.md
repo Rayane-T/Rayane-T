@@ -34,8 +34,9 @@
 
 [Integer Interpreter](https://github.com/Rayane-T/Integer-Interpreter) - An Interpreter capable of taking a numerical form to an Alphabetic form based on a dictionnary.
 
+## Some stats
 
-### Some stats
+<details>
 <!--START_SECTION:waka-->
 
 ```text
@@ -48,3 +49,4 @@ Python       28 mins         █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+</details>
