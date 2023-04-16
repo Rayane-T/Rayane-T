@@ -33,3 +33,9 @@
 [Portfolio](https://www.rayanetayache.me) - My Portfolio showcasing my projects, internship experience and leadership experience.
 
 [Integer Interpreter](https://github.com/Rayane-T/Integer-Interpreter) - An Interpreter capable of taking a numerical form to an Alphabetic form based on a dictionnary.
+
+
+### Some stats
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
