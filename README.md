@@ -34,9 +34,12 @@
 
 [Integer Interpreter](https://github.com/Rayane-T/Integer-Interpreter) - An Interpreter capable of taking a numerical form to an Alphabetic form based on a dictionnary.
 
-## Some stats
 
+## More stats
 <details>
+<summary>
+Here!
+</summary>
 <!--START_SECTION:waka-->
 
 ```text
