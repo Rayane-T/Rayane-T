@@ -43,9 +43,7 @@ Here!
 <!--START_SECTION:waka-->
 
 ```text
-Prolog   1 hr 7 mins     ███████████████████████▓░   95.10 %
-Perl     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
