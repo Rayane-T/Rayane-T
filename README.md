@@ -43,7 +43,11 @@ Here!
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Makefile   4 mins          ██████████░░░░░░░░░░░░░░░   40.34 %
+C          3 mins          ███████▓░░░░░░░░░░░░░░░░░   30.09 %
+Markdown   1 min           ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
+Text       0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+Prolog     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 ```
 
 <!--END_SECTION:waka-->
