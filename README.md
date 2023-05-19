@@ -21,7 +21,7 @@
  
 <h2>I work with this tech</h2>
 <p align="center">
- <img src="https://skillicons.dev/icons?i=python,tensorflow,c,cpp,javascript,react,nodejs,expressjs,mongodb,tailwindcss,docker,linux" alt="Python, Node.js, Deno, Rust, React, Solid, Svelte, React, Next.js, Tailwind, Prisma, Docker, Linux" />
+ <img src="https://skillicons.dev/icons?i=python,pytorch,c,cpp,javascript,react,nodejs,expressjs,mongodb,tailwindcss,docker,linux" alt="Python, Node.js, Deno, Rust, React, Solid, Svelte, React, Next.js, Tailwind, Prisma, Docker, Linux" />
 </p>
 
 ## My projects
