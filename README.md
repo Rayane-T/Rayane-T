@@ -14,7 +14,7 @@
 
 - 👨‍💻 Hackathon Enthusiast.
 - 🌱 Currently learning Machine Learning and Deep Learning.
-- 🔎 Looking for 2023 Summer SWE Internship.
+- 🔎 Looking for 2024 Summer SWE Internship.
 - 📫 Feel free to contact me by [Email](mailto:pro.tayacherayane@gmail.com) or [LinkedIn](https://www.linkedin.com/in/rayanetayache/).
  
  
