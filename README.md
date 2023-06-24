@@ -42,7 +42,8 @@ Here!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   5 mins          ██████████████████▒░░░░░░   73.08 %
+Docker   1 min           ██████▓░░░░░░░░░░░░░░░░░░   26.92 %
 ```
 
 <!--END_SECTION:waka-->
