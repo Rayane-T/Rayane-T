@@ -23,17 +23,6 @@
  <img src="https://skillicons.dev/icons?i=python,pytorch,c,cpp,javascript,react,nodejs,expressjs,mongodb,tailwindcss,docker,linux" alt="Python, Node.js, Deno, Rust, React, Solid, Svelte, React, Next.js, Tailwind, Prisma, Docker, Linux" />
 </p>
 
-## My projects
-
-[Track](https://github.com/Rayane-T/Track) - Track is an expense tracker that enables collaboration between people when budgeting.
-
-[RidOf](https://github.com/Rayane-T/RidOf_UI) - An educational application aimed at simplifying the process of recycling trash in your daily life.
-
-[Portfolio](https://www.rayanetayache.me) - My Portfolio showcasing my projects, internship experience and leadership experience.
-
-[Integer Interpreter](https://github.com/Rayane-T/Integer-Interpreter) - An Interpreter capable of taking a numerical form to an Alphabetic form based on a dictionnary.
-
-
 ## More stats
 <details>
 <summary>
